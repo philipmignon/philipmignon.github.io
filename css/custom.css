@@ -55,6 +55,7 @@ footer{
 }
 
 .modal-content button.close{
+	position: absolute;
 	top: 5px;
 	right: 5px;
 	background-color: white;
